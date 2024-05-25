@@ -136,7 +136,7 @@ a:hover
     fill: rgb(247,195,46);
 }
 .fff3{
-    height: 450px;
+    height: 350px;
 }
 
 .fill-info{
@@ -180,4 +180,7 @@ a:hover
     border: 1px solid rgba(var(--bs-white-rgb), 0.1) !important;
     border-radius: 0.325rem;
     color: #fff;
+}
+.fill-primary1{
+    fill: rgb(230,240,249);
 }
