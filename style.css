@@ -136,7 +136,8 @@ a:hover
     fill: rgb(247,195,46);
 }
 .fff3{
-    height: 350px;
+    height: 340px;
+    width: 100%;
 }
 
 .fill-info{
@@ -184,3 +185,8 @@ a:hover
 .fill-primary1{
     fill: rgb(230,240,249);
 }
+.dddd{
+    max-width: 100%;
+    height: auto;
+}
+
